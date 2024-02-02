@@ -1,0 +1,201 @@
+patient_id,first_name,last_name,gender,birth_date,city,province_id,allergies,height,weight
+1,Donald,Waterfield,M,23054,Barrie,ON,NULL,156,65
+2,Mickey,Baasha,M,29734,Dundas,ON,Sulfa,185,76
+3,Jiji,Sharma,M,21068,Hamilton,ON,Penicillin,194,106
+4,Blair,Diaz,M,24479,Hamilton,ON,NULL,191,104
+5,Charles,Wolfe,M,43058,Orillia,ON,Penicillin,47,10
+6,Sue,Falcon,F,43008,Ajax,ON,Penicillin,43,5
+7,Thomas,ONeill,M,34000,Burlington,ON,NULL,180,117
+8,Sonny,Beckett,M,19339,Port Hawkesbury,NS,NULL,174,105
+9,Sister,Spitzer,F,24395,Toronto,ON,Penicillin,173,95
+10,Cedric,Coltrane,M,22595,Toronto,ON,NULL,157,61
+11,Hank,Spencer,M,25425,Peterborough,ON,NULL,158,74
+12,Sara,di Marco,F,18017,Hamilton,ON,NULL,145,46
+13,Daphne,Seabright,F,20046,Ancaster,ON,Codeine,146,77
+14,Rick,Bennett,M,28152,Ancaster,ON,Penicillin,220,95
+15,Amy,Leela,F,28301,Hamilton,ON,NULL,172,72
+16,Woody,Bashir,M,18947,Barrie,ON,Penicillin,153,59
+17,Tom,Halliwell,M,31990,Hamilton,ON,Ragweed,179,114
+18,Rachel,Winterbourne,F,24223,Hamilton,ON,NULL,163,95
+19,John,West,M,22451,Oakville,ON,NULL,138,61
+20,Jon,Doggett,M,18987,Hamilton,ON,NULL,194,116
+21,Angel,Edwards,F,27628,Brantford,ON,NULL,176,106
+22,Brodie,Beck,F,27607,Carlisle,ON,NULL,157,66
+23,Beanie,Foster,F,36121,Ancaster,ON,Sulfa,154,75
+24,Nino,Andrews,M,37002,Hamilton,ON,Peanuts,186,85
+25,John,Farley,M,20710,Hamilton,ON,Gluten,213,104
+26,Nea,Kobayakawa,F,34990,Toronto,ON,NULL,147,62
+27,Laura,Halliwell,F,23707,Brantford,ON,NULL,146,76
+28,Lucille,Maureen,F,19593,Hamilton,ON,NULL,184,87
+29,Jim,Thomas,M,31460,Ottawa,ON,Penicillin,173,70
+30,Roderick,Payne,M,42085,Halifax,NS,NULL,58,17
+31,Sam,Threep,M,30118,Hamilton,ON,Sulpha,199,141
+32,Bertha,Crowley,F,39886,Delhi,ON,NULL,125,39
+33,Roland,Edge,M,24740,Brantford,ON,Peanut Oil,199,134
+34,Don,Wiggum,M,37575,Hamilton,ON,NULL,189,91
+35,Anthony,Maxwell,M,40585,Oakville,ON,NULL,92,37
+36,James,Sullivan,M,27054,Delhi,ON,Topical Anaesthesia,139,68
+37,Anne,Marlowe,F,35325,Pickering,ON,NULL,165,88
+38,Kelly,Hamilton,F,40450,Stoney Creek,ON,Penicillin,84,36
+39,Charles,Andonuts,M,42510,Hamilton,ON,NULL,62,15
+40,Temple,Russert,F,19490,Hamilton,ON,Hay Fever,166,102
+41,Don,Edwards,M,27577,Hamilton,ON,NULL,215,118
+42,Alice,Donovan,F,18076,Hamilton,ON,Penicillin,167,54
+43,Stone,Cutting,M,40445,Hamilton,ON,Codeine,110,42
+44,Neil,Allan,M,27427,Cambridge,ON,Penicillin,203,123
+45,Cross,Gordon,M,39892,Ancaster,ON,NULL,125,53
+46,Phoebe,Bigelow,F,37332,Thunder Bay,ON,Penicillin,183,64
+47,Harry,Kuramitsu,M,29192,Hamilton,ON,NULL,215,95
+48,Gary,Ramotswe,M,28337,Hamilton,ON,NULL,178,101
+49,Phil,Chester,M,33141,Hamilton,ON,Penicillin,199,112
+50,Phil,Beckett,M,41923,Ottawa,ON,NULL,83,26
+51,Gala,Littlefield,F,39984,Brantford,ON,NULL,112,41
+52,Gregory,James,M,31641,Hamilton,ON,NULL,195,135
+53,Bruno,Wolfe,M,35810,Ottawa,ON,Sulfa,145,70
+54,Molly,Jackson,F,31171,Carlisle,ON,NULL,159,48
+55,Rose,Spellman,F,20971,Hamilton,ON,NULL,164,59
+56,Will,Manu,M,22153,Burlington,ON,NULL,154,69
+57,Woody,Riviera,M,33064,Kingston,ON,Penicillin,192,109
+58,Georgette,Gallagher,F,27734,Elmira,ON,Ragweed,170,93
+59,Rocky,Donahue,M,19465,Hamilton,ON,NULL,190,110
+60,Roland,Murphy,M,27168,Hamilton,ON,Sulfa Drugs,153,71
+61,Mary,Spellman,F,32210,Stoney Creek,ON,NULL,178,92
+62,Shiro,Whale,M,34715,Hamilton,ON,Penicillin,195,117
+63,Calleigh,Dean,F,37808,Hamilton,ON,Penicillin,175,56
+64,Didi,Dean,F,21137,Milton,ON,NULL,182,110
+65,Haiku,Alpert,M,41856,Paris,ON,Penicillin,69,22
+66,Joseph,Justin,M,19653,Toronto,ON,Penicillin,140,71
+67,Catherine,Minoru,F,35486,Victoria,BC,Sulphur,184,100
+68,Danny,Hardbroom,M,31178,Niagara Falls,ON,Penicillin,183,105
+69,Lily,Crusher,F,19800,Burlington,ON,NULL,185,82
+70,Billy,Jones,M,41543,Hamilton,ON,NULL,85,29
+71,Vicki,Babbling,F,37843,Stoney Creek,ON,NULL,180,64
+72,Lily,Vargas,F,8523,Hamilton,ON,Codeine,195,102
+73,Agatha,Sawyer,F,33290,Ancaster,ON,Penicillin,155,83
+74,Temple,Marlowe,F,29983,Hamilton,ON,NULL,135,65
+75,Kazuki,Ranall,M,32617,Hamilton,ON,Penicillin,139,63
+76,Jackie,Lovegood,F,30502,Hamilton,ON,NULL,157,56
+77,Mike,Mars,M,40009,Hamilton,ON,Penicillin,123,46
+78,Natsumi,Weasley,F,18494,Thunder Bay,ON,Valporic Acid,157,66
+79,Reginald,Jackson,M,24325,Toronto,ON,Penicillin,182,101
+80,Ernest,Clarkson,M,22972,Hamilton,ON,NULL,163,66
+81,Gytha,Banzai,F,37125,Hamilton,ON,NULL,182,75
+82,Matt,Goergen,M,32958,Hamilton,ON,Penicillin,130,66
+83,Nick,Walker,M,25400,Hamilton,ON,NULL,164,77
+84,Jen,Jacobs,F,22982,Hamilton,ON,NULL,156,79
+85,Phoebe,Bell,F,27520,Hepworth,ON,Micropore Tape,169,115
+86,Ann,Blocksberg,F,35313,Hamilton,ON,Penicillin,162,101
+87,Frank,Capone,M,38032,Hamilton,ON,NULL,166,65
+88,Caroline,Smart,F,23108,Hamilton,ON,NULL,145,64
+89,Sam,Spratt,M,30582,Hamilton,ON,NULL,195,100
+90,Prue,Cleever,F,30578,Odessa,ON,Sulfa Drugs,149,119
+91,Zoe,Miller,F,18974,Hamilton,ON,Honey,184,103
+92,Mendy,Strate,M,20543,Stoney Creek,ON,NULL,206,111
+93,Delores,Bones,F,38917,Hamilton,ON,NULL,154,50
+94,Hal,Riviera,M,23834,Kingston,ON,Tylenol,194,110
+95,Gene,Edwards,M,23899,Hamilton,ON,Sulphate,199,96
+96,Jonny,Christian,M,37798,Kingston,ON,NULL,182,77
+97,Emmett,Erin,M,40660,Hamilton,ON,Penicillin,126,39
+98,Harry,Soprano,M,41808,Beamsville,ON,NULL,85,26
+99,Richard,Davis,M,26148,Toronto,ON,NULL,148,75
+100,Olwyn,Chino,M,28736,Hamilton,ON,Tetracycline,146,70
+101,Annie,Cox,F,22308,Hamilton,ON,NULL,160,83
+102,John,Stape,M,24257,Hamilton,ON,NULL,214,118
+103,Casanova,Dresden,M,32131,Milton,ON,Penicillin,150,74
+104,Alice,Taylor,F,19363,Hamilton,ON,NULL,179,109
+105,Freddie,Landsman,M,26374,Brockville,ON,NULL,152,73
+106,Moe,Provenza,M,38662,Cambridge,ON,NULL,183,72
+107,Gillian,Dyson,F,36783,Hamilton,ON,Penicillin,164,86
+108,Beanie,Nelson,M,34131,Beamsville,ON,Tylenol,162,69
+109,William,Templin,M,27612,Highland,ON,NULL,152,72
+110,Leyla,Dedede,F,29712,Hamilton,ON,Sulfa,166,99
+111,Joyce,Bosch,F,42303,Brantford,ON,NULL,65,17
+112,David,Beresford,M,27319,Halifax,NS,NULL,152,87
+113,Shirley,Havers,F,31652,Hamilton,ON,NULL,145,66
+114,Norman,Gregory,M,39979,Calgary,ON,Eggs,125,53
+115,Briareos,Hayes,M,6921,Sarnia,ON,Morphine,189,138
+116,Mable,Taggart,F,22783,Hamilton,ON,NULL,181,87
+117,Chen,Baasha,M,33733,Cambridge,ON,NULL,193,140
+118,Indiana,Kingsley,M,28597,Hamilton,ON,Penicillin,140,67
+119,Henry,Hernandez,M,19813,Hamilton,ON,NULL,163,55
+120,Teddy,McGrath,M,24638,Hamilton,ON,NULL,168,75
+121,Salvatore,Neutron,M,34507,Burlington,ON,Codeine,186,106
+122,Harry,Graf,M,32635,Hamilton,ON,Penicillin,134,68
+123,Stanley,Bean,M,32813,Toronto,ON,NULL,172,75
+124,Derek,Burbank,M,32187,Brantford,ON,Penicillin,203,125
+125,Nea,Brocklehurst,F,43156,Hamilton,ON,Penicillin,38,5
+126,King,Arden,M,29872,Cambridge,ON,Seafood,137,84
+127,Lyan,Russo,M,38487,Toronto,ON,Tetracycline,180,65
+128,Thomas,Fortune,M,18611,Carisle,ON,Cats,170,114
+129,Priestley,DAmico,M,22590,Milton,ON,Penicillin,152,69
+130,Arnold,Love,M,19189,Toronto,ON,NULL,200,116
+131,Thursday,Ernst,F,22952,Whitby,ON,Sulfa,172,53
+132,Haiku,Shaft,M,38767,Barrie,ON,NULL,155,55
+133,Mattie,Harkness,F,32772,Timmins,ON,NULL,159,60
+134,Alexandra,Robins,F,32441,Burlington,ON,Sulfa,179,84
+135,Vin,Smyth,M,18667,Hamilton,ON,Codeine,207,113
+136,Kenny,Skelton,M,25717,Calgary,ON,NULL,187,118
+137,Jackie,Dean,M,29493,Victoria,BC,NULL,136,58
+138,Fiz,Ozaki,F,32767,Hamilton,ON,Penicillin,180,91
+139,Robbie,Wilde,M,26019,Burlington,ON,NULL,164,70
+140,Amy,Fuhrey,F,29170,Oshawa,ON,Penicillin,148,49
+141,Lou,Vincent,M,39110,Selkirk,ON,Penicillin,143,56
+142,Elvis,Maroni,M,17706,Hamilton,ON,Codeine,139,66
+143,Mike,Madison,M,34225,Carlisle,ON,NULL,191,110
+144,Reginald,Cavor,M,31617,Red Deer,AB,Penicillin,163,86
+145,Kurt,Turtle,M,33768,Hamilton,ON,NULL,148,68
+146,Scott,Corinthos,M,36489,Hamilton,ON,NULL,198,123
+147,Agnes,Duckworth,F,28943,Ancaster,ON,Penicillin,178,76
+148,Keziah,Brearly,F,18177,Hamilton,ON,Penicillin,163,102
+149,David,Redfield,M,29971,Burlington,ON,Dairy Products,166,89
+150,Sonny,Waterman,M,31821,Hamilton,ON,NULL,173,89
+151,Jeff,Tyrell,M,35629,Hamilton,ON,NULL,167,118
+152,Charmian,Hardy,F,33710,Hamilton,ON,NULL,155,93
+153,Jefferson,Hally,M,20019,Toronto,ON,Penicillin,155,89
+154,Daneel,Carpenter,M,28289,Burlington,ON,Penicillin,185,101
+155,Kazuki,Scarpetta,M,32702,Barrie,ON,Penicillin,170,78
+156,Sarah,Newbury,F,41318,Athens,ON,NULL,75,22
+157,Robert,Page,M,24378,Stoney Creek,ON,NULL,177,117
+158,Naoto,Clover,F,40054,Brantford,ON,Codeine,120,38
+159,Noike,Maloney,F,32215,Hamilton,ON,Strawberries,147,60
+160,Miranda,Delacour,F,32724,Stoney Creek,ON,Valporic Acid,163,88
+161,Marty,Carrington,M,18347,Sarnia,ON,Feathers,145,68
+162,Laura,Dee,F,18021,Windsor,ON,NULL,148,64
+163,Mona,Heterodyne,F,32413,Hamilton,ON,NULL,146,48
+164,Valentin,Mackey,M,38158,Ottawa,ON,NULL,181,78
+165,Emmett,Colbock,M,31714,Hamilton,ON,NULL,217,89
+166,Frank,Carrow,M,42598,Hamilton,ON,ASA,58,15
+167,Alex,Fox,F,18939,Selkirk,ON,NULL,170,98
+168,Nina,Peroni,F,23454,Peterborough,ON,NULL,151,69
+169,Temple,LoPresti,F,25727,Hargersville,ON,NULL,146,45
+170,Wanda,Redfield,F,32610,Hamilton,ON,Eggs,169,111
+171,Jack,Stewart,M,40461,Brantford,ON,Topical Anaesthesia,101,35
+172,Maria,Bluenight,F,32775,Ancaster,ON,NULL,147,71
+173,Sarah,Cooper,F,22178,Athens,ON,NULL,154,63
+174,Samus,Dalton,F,26521,Hamilton,ON,NULL,149,50
+175,Melody,Frye,F,38905,Hamilton,ON,NULL,132,44
+176,Brooke,Bowles,F,25006,Toronto,ON,Bee Stings,149,102
+177,Irene,Casswell,F,40605,Burlington,ON,Codeine,117,25
+178,David,Bustamonte,M,40233,Carisle,ON,Peanuts,103,37
+179,Phil,Uzuki,M,27143,Saskatoon,SK,Penicillin,187,124
+180,Michael,Henderson,M,39105,Paris,ON,Penicillin,131,57
+181,Nancy,Costello,F,36629,Dundas,ON,Penicillin,183,93
+182,Bernard,Karidian,M,39028,Hamilton,ON,NULL,168,62
+183,Doris,Kent,F,24005,Toronto,ON,NULL,161,49
+184,Hoshi,Johnson,F,28576,Cambridge,ON,Penicillin,179,106
+185,Didi,Del Lago,F,27646,Hargersville,ON,ASA,185,94
+186,Doyle,Starr,M,33177,Burlington,ON,Wheat,191,121
+187,Guido,Lonnegan,M,18604,Hamilton,ON,ASA,153,79
+188,Cary,Henderson,M,22493,Hamilton,ON,Bee Stings,167,98
+189,Joanna,Cooper,F,26313,Toronto,ON,Codeine,181,107
+190,Gwenog,Hughes,F,18687,Burlington,ON,NULL,162,87
+191,Freddy,Johnson,M,32926,Cambridge,ON,Peanuts,172,118
+192,Christine,Lynch,F,34547,Brantford,ON,Sulphur,181,77
+193,Magrat,Luca,F,31151,Stoney Creek,ON,NULL,134,63
+194,Manick,Fletcher,M,35438,Ancaster,ON,Strawberries,154,66
+195,Elizabeth,Rivers,F,18590,Beamsville,ON,Penicillin,134,58
+196,Elvis,Kennedy,M,19054,Hamilton,ON,Hay Fever,163,80
+197,Jack,Wesley,M,12250,Hamilton,ON,NULL,197,106
+198,Janice,Renault,F,38331,Hamilton,ON,ASA,177,66
+199,Lenny,Holmes,M,27248,Hamilton,ON,NULL,160,86
+200,Sally,Smith,F,18705,Cambridge,ON,Penicillin,163,62

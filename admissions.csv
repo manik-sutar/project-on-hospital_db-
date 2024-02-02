@@ -1,0 +1,228 @@
+patient_id,admission_date,discharge_date,diagnosis,attending_doctor_id
+1,43410,43412,Ovarian Dermoid-Cyct,21
+1,43363,43363,Ineffective Breathin Pattern R/T Fluid Accumulatio,24
+3,43489,43494,Cardiac Arrest,2
+3,43394,43400,Congestive Heart Failure,8
+6,43264,43266,Asthma Exacerbation,3
+6,43412,43413,Uterine Fibroid,22
+7,43275,43284,Cancer,8
+8,43361,43364,Amigima,6
+9,43526,43533,Osteoarthritis,8
+9,43465,43465,Ruptured Appendicitis,19
+10,43464,43470,Zenkers Diverticulitis,14
+10,43523,43523,Lower Quadrant Pain,27
+11,43448,43450,Prostatectomy,15
+12,43582,43589,Cerebral Aneurysm Rupture,21
+13,43583,43586,Renal Failure,1
+15,43374,43378,Hiatal Hernia,5
+16,43475,43479,Pyloric Obstruction,6
+16,43559,43568,Schizophrenic Disorder,12
+17,43528,43528,Diabetes Mellitus,9
+17,43446,43448,Fractured Femur,2
+18,43283,43286,Spinal Infection,3
+18,43580,43589,40 Weeks Pregnant,10
+20,43495,43500,Essential Hypertension,15
+21,43258,43261,"Exploratory, Orthoscopic - Knee",12
+21,43423,43431,Emphysema,12
+22,43298,43301,Pregnancy,8
+22,43408,43411,Congestive Heart Failure,13
+23,43562,43570,Ca. Of Blatter,26
+23,43483,43487,Enlarged Bunion On Left Primary Metaarsal,4
+24,43542,43546,Bipolar Affective Disorder,21
+24,43589,43595,Anterior MI,1
+27,43353,43355,Amigima,12
+28,43554,43554,Cancer Of The Stomach,26
+29,43477,43479,Anterior MI,4
+31,43369,43369,Cardiovascular Disease,19
+32,43603,43608,Stroke (CVA),22
+32,43375,43384,Stomache Pain,12
+33,43616,43617,Myocardial Infarction,14
+34,43440,43441,Bladder Tomour,11
+34,43458,43460,Fracture Right Distal Radius (Colles Fracture),17
+35,43433,43436,Myocardial Infarction,7
+35,43621,25938,Possible Renal Calculi,8
+36,43593,43597,Lung Cancer (Rt. Lung),20
+37,43533,43542,Basal Skull Fracture,27
+37,43412,43414,Rt. Nephrectomy,3
+38,43429,43431,Chronic Obstructive Pulmonary Disease,6
+39,43537,43546,Fibroids,12
+39,43482,43483,Peptic Ulcer,12
+40,43437,43438,Appendicitis,13
+40,43347,43355,Spinal Compresion,5
+41,43264,43272,Chest Pain,20
+45,43419,43427,Post Partum Hemmorage,6
+46,43466,43471,Caeserian Section,15
+46,43259,43267,Severe Substernal Pain Radiating To Left Shoulder,22
+47,43498,43504,Appendicitis,3
+48,43327,43330,Pneumonia,11
+49,43275,43281,Unable To Void.,7
+51,43297,43299,Undiagnosed Chest Pain,1
+51,43409,43415,Hysterectomy,14
+52,43595,43599,Prostatectomy,14
+53,43397,43397,Urinary Tract Infection,8
+53,43421,43426,Pyelonephritis,2
+54,43404,43407,Diabetes,21
+54,43562,43562,Hypertension,21
+56,43445,43447,Abdominal Perineal Resection,25
+56,43380,43389,Cardiovascular Disease,26
+58,43416,43419,Cardiovascular Disease,14
+59,43412,43419,Birth By Caeserian Section,18
+60,43355,43356,Impaired Gas Exchange,2
+60,43541,43542,Kock Pouch Urinary Diversion,25
+61,43345,43348,Cva (Left) - Cerebral Vascular Accident (Stroke),20
+61,43420,43423,Chronic Bronchitis,16
+62,43388,43392,Manic Depression,14
+62,43445,43450,Rheumataoid Arthritis,2
+63,43340,43343,Really Sick,21
+64,43590,43599,Unable To Void.,17
+66,43595,43599,Diabetes Mellitus,17
+67,43393,43402,Pregnancy,15
+67,43505,43511,Ovarian Cancer,21
+68,43436,43441,Diabetes Mellitus,12
+68,43409,43413,Pregnancy,11
+69,43587,43593,Asthma,12
+70,43298,43298,Migraine,20
+71,43319,43323,Post Partum Hemmorage,10
+71,43425,43431,Bronchiolitis,20
+73,43489,43492,Ovarian Cancer,6
+73,43533,43539,Lung Cancer,17
+74,43408,43410,Fractured Right Femur (Compound),25
+75,43386,43395,Headache,7
+76,43368,43376,Appendicitis,11
+76,43477,43485,Pain In Abdomen Left Side,23
+77,43269,43277,Head Injury M.V.A.,18
+77,43398,43406,Asthma,2
+78,43268,43268,Hypertension,17
+79,43515,43518,Hypertension,10
+79,43524,43529,3rd Degree Burn,27
+81,43441,43445,Angina Pectoris,27
+81,43582,43588,Repair Stab Wound,22
+82,43471,43472,L4-Lf Spinal Fusion,9
+83,43598,43602,Enlarged Bunion On Left Primary Metaarsal,26
+84,43477,43479,Endometriosis,18
+84,43467,43472,Anterior Myocardial Infraction,2
+86,43606,43612,Pregnancy,14
+87,43501,43503,Uterine Fibroid,11
+87,43566,43570,Pneumonia,15
+88,43285,43287,Enlarged Bunion On Left Primary Metaarsal,26
+88,43503,43512,Emphysema,15
+90,43278,43282,Cancer,11
+91,43342,43342,Congestive Heart Failure,3
+91,43539,43542,Emphysema,13
+92,43317,43325,Fractured Femur,7
+92,43468,43468,Osteo Arthtitis Knee,5
+93,43422,43431,Crohns Disease,11
+93,43605,43605,Left Creebral Vascular Accident,12
+94,43267,43269,Left Shoulder Rotator Cuff Repair,22
+97,43288,43297,Ovarian Cancer,24
+98,43565,43572,Pregnancy,25
+98,43449,43456,Birth By Caeserian Section,5
+100,43438,43447,"Depression, Dementia",22
+100,43410,43418,Respiratory Failure,21
+101,43602,43611,Stroke (CVA),8
+102,43401,43406,"Melanoma, Cancer",3
+103,43509,43518,Ovarian Cyst,22
+103,43408,43414,Basal Skull Fracture,2
+104,43467,43475,Abdominal Pain,25
+105,43377,43379,Pneumonia,6
+106,43277,43280,Dislocated R/Shoulder Broke L/Leg R/T Car Acc,2
+108,43605,43613,Decubitus Ulcer,15
+108,43541,43543,Unstable Angina,12
+110,43514,43514,Biliary Colic,14
+110,43563,43572,Lumbar Disc Protrusion,23
+111,43514,43518,Total Hysterectomy,1
+111,43337,43337,Subdural Hematoma,27
+112,43368,43376,Amyotopic Lateral Scletosis,5
+112,43292,43294,Obsessive - Compulsive Order,23
+113,43394,43394,2nd & 3rd Degree Burns To Right Arm / Both Legs,13
+114,43507,43507,MVA HI,26
+115,43471,43478,Myocardial Infarction,11
+115,43333,43341,CHF,12
+117,43291,43296,Myocardial Infarction,17
+118,43339,43347,Anterior MI,25
+119,43321,43322,Renal Failure,12
+119,43317,43326,Colorectal Cancer,18
+120,43560,43568,Migraine,7
+120,43377,43377,Uterine Fibroid,26
+121,43348,43356,Anterior Myocardial Infraction,10
+122,43277,43279,Cerebrovascular Accident (Stroke),9
+123,43554,43554,Pregnancy,6
+123,43290,43292,Back Injury,21
+124,43522,43530,Zenkers Diverticulitis,13
+125,43601,43609,Labour,20
+125,43403,43407,Myocardial Infarction (MI),13
+126,43332,43336,Rheumataoid Arthritis,4
+126,43440,43449,Paranoid Schizophrenic,5
+127,43586,43592,Chest Infection,19
+128,43315,43324,Prostatectomy,5
+128,43312,43319,Hunting Disease,16
+129,43502,43504,Pain In Abdomen Left Side,7
+129,43557,43562,Pregnant,11
+130,43604,43613,Cancer,19
+131,43528,43536,Hypoglycemia,13
+131,43258,43258,Amyotopic Lateral Scletosis,20
+132,43284,43284,Appendicitis,2
+133,43558,43567,Ovarian Dermoid-Cyct,2
+133,43301,43302,Congestive Heart Failure,26
+135,43561,43567,Caeserian Section,21
+137,43399,43400,Pregnancy,23
+137,43585,43591,Pregnancy,13
+139,43398,43401,Pyclonephritis,18
+143,43356,43358,Ca R Breast,26
+145,43355,43364,Pregnant,25
+145,43403,43403,Rll Pneumonia,20
+147,43265,43272,Congestive Heart Failure,19
+147,43533,43537,Pregnancy,18
+148,43376,43385,Myocardial Infarction,15
+148,43441,43445,Fractured L. Tibia,17
+150,43435,43437,Osteomyslitis - Right Hip,14
+150,43312,43314,Manic Depression,12
+151,43603,43611,Fractured Left Hip,14
+151,43488,43488,Broken Hip,27
+152,43414,43415,Fractured Hip,6
+154,43572,43579,Pain In Abdomen Left Side,24
+154,43456,43461,Latent Phase Of First Stage Labour,4
+155,43306,43308,Multiple Sclerosis,2
+156,43354,43354,Scatica,11
+156,43469,43471,Cva-Right-Sided-Weakness,20
+158,43365,43367,Fractured Right Humeral Head,21
+159,43379,43387,Cleft Palate And Complete Unilateral Cleft Up,9
+159,43420,43420,Fractured Left Leg,13
+160,43260,43269,Dementia,24
+161,43314,43322,Asthma,12
+162,43407,43410,Unstable Angina,15
+163,43262,43265,Ulcerative Colitis,27
+164,43281,43285,Cervical Spinal Tumor,9
+164,43451,43455,40 Weeks Pregnant,2
+165,43315,43322,3rd Degree Burn To Face,6
+166,43316,43322,Immobility R/T Pain And Swelling R Ankle,2
+168,43381,43390,Birth By Caeserian Section,15
+168,43292,43298,Congestive Heart Failure,5
+170,43412,43415,Bladder Cancer,21
+,,,,
+170,43385,43393,Asthma,13
+171,43535,43540,Cancer Of The Stomach,2
+171,43529,43535,Angina,18
+172,43491,43496,Appendicitis,11
+172,43592,43595,Osteoarthritis,1
+173,43392,43397,"Interstitial, Pulmonary Edema",4
+174,43539,43543,Spinal Infection,20
+176,43337,43338,Labour,17
+177,43321,43324,Amigima,19
+177,43539,43547,Paranoid Schizophrenia,4
+178,43403,43407,Dementia,17
+179,43288,43292,Myocardial Infarction,27
+179,43461,43468,Pregnancy,7
+180,43478,43485,"Dehydradion, Vomiting",25
+182,43404,43413,Crohns Disease,20
+183,43497,43506,Pneumonia,6
+185,43524,43526,Pregnant,21
+186,43509,43517,Pregnancy,18
+191,43480,43486,Cerebrovascular Accident (Stroke),7
+191,43609,43616,Severe Pain + Tenderness In Left Calf,20
+193,43589,43594,Alt. In Emotional Integrity - Anxiety,10
+194,43508,43514,Fractured L. Tibia,23
+197,43344,43346,Fractured Right Humeral Head,14
+197,43512,43516,Appendicitis,10
+199,43459,43466,CHF,14
+200,43578,43585,Diabetes Mellitus,7
